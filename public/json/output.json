@@ -1,0 +1,1452 @@
+{
+    "graph": {
+        "export": {
+            "algorithm": "network",
+
+            "edges": [
+                {
+                    "from": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a573093c37c144868baa2d8c77e097e6/86d9edb02424349f",
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a573093c37c144868baa2d8c77e097e6/86d9edb02424349f-i-037a6fbeb51eb615c",
+                    "parent": "vpc-09facb66c705f3411",
+                    "to": "i-037a6fbeb51eb615c"
+                },
+                {
+                    "from": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a573093c37c144868baa2d8c77e097e6/86d9edb02424349f",
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a573093c37c144868baa2d8c77e097e6/86d9edb02424349f-i-0d1d9fa0e9380984f",
+                    "parent": "vpc-09facb66c705f3411",
+                    "to": "i-0d1d9fa0e9380984f"
+                },
+                {
+                    "from": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a573093c37c144868baa2d8c77e097e6/86d9edb02424349f",
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a573093c37c144868baa2d8c77e097e6/86d9edb02424349f-i-0fae1b08bd3b1d730",
+                    "parent": "vpc-09facb66c705f3411",
+                    "to": "i-0fae1b08bd3b1d730"
+                },
+                {
+                    "from": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a573093c37c144868baa2d8c77e097e6/86d9edb02424349f",
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a573093c37c144868baa2d8c77e097e6/86d9edb02424349f-i-037a6fbeb51eb615c",
+                    "parent": "vpc-09facb66c705f3411",
+                    "to": "i-037a6fbeb51eb615c"
+                },
+                {
+                    "from": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a573093c37c144868baa2d8c77e097e6/86d9edb02424349f",
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a573093c37c144868baa2d8c77e097e6/86d9edb02424349f-i-0d1d9fa0e9380984f",
+                    "parent": "vpc-09facb66c705f3411",
+                    "to": "i-0d1d9fa0e9380984f"
+                },
+                {
+                    "from": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a573093c37c144868baa2d8c77e097e6/86d9edb02424349f",
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a573093c37c144868baa2d8c77e097e6/86d9edb02424349f-i-0fae1b08bd3b1d730",
+                    "parent": "vpc-09facb66c705f3411",
+                    "to": "i-0fae1b08bd3b1d730"
+                },
+                {
+                    "from": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a65736df85b5749f48517e238e21bb2f/6cde185c3a2c8f31",
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a65736df85b5749f48517e238e21bb2f/6cde185c3a2c8f31-i-0e02e7540dd13c1ad",
+                    "parent": "vpc-010b8868a5da84757",
+                    "to": "i-0e02e7540dd13c1ad"
+                },
+                {
+                    "from": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a65736df85b5749f48517e238e21bb2f/6cde185c3a2c8f31",
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a65736df85b5749f48517e238e21bb2f/6cde185c3a2c8f31-i-005fd623b65788089",
+                    "parent": "vpc-010b8868a5da84757",
+                    "to": "i-005fd623b65788089"
+                },
+                {
+                    "from": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a65736df85b5749f48517e238e21bb2f/6cde185c3a2c8f31",
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a65736df85b5749f48517e238e21bb2f/6cde185c3a2c8f31-i-0e02e7540dd13c1ad",
+                    "parent": "vpc-010b8868a5da84757",
+                    "to": "i-0e02e7540dd13c1ad"
+                },
+                {
+                    "from": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a65736df85b5749f48517e238e21bb2f/6cde185c3a2c8f31",
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a65736df85b5749f48517e238e21bb2f/6cde185c3a2c8f31-i-005fd623b65788089",
+                    "parent": "vpc-010b8868a5da84757",
+                    "to": "i-005fd623b65788089"
+                },
+                {
+                    "from": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a9bad2d02965a4548bc8e644332266d6/2076b90b87a5705f",
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a9bad2d02965a4548bc8e644332266d6/2076b90b87a5705f-i-0c843e0a0f5f82283",
+                    "parent": "vpc-0febb09dd4def226c",
+                    "to": "i-0c843e0a0f5f82283"
+                },
+                {
+                    "from": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a9bad2d02965a4548bc8e644332266d6/2076b90b87a5705f",
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a9bad2d02965a4548bc8e644332266d6/2076b90b87a5705f-i-0056f95a54a3e2335",
+                    "parent": "vpc-0febb09dd4def226c",
+                    "to": "i-0056f95a54a3e2335"
+                },
+                {
+                    "from": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a9bad2d02965a4548bc8e644332266d6/2076b90b87a5705f",
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a9bad2d02965a4548bc8e644332266d6/2076b90b87a5705f-i-0ca850323bac2dbcc",
+                    "parent": "vpc-0febb09dd4def226c",
+                    "to": "i-0ca850323bac2dbcc"
+                },
+                {
+                    "from": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a9bad2d02965a4548bc8e644332266d6/2076b90b87a5705f",
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a9bad2d02965a4548bc8e644332266d6/2076b90b87a5705f-i-0c843e0a0f5f82283",
+                    "parent": "vpc-0febb09dd4def226c",
+                    "to": "i-0c843e0a0f5f82283"
+                },
+                {
+                    "from": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a9bad2d02965a4548bc8e644332266d6/2076b90b87a5705f",
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a9bad2d02965a4548bc8e644332266d6/2076b90b87a5705f-i-0056f95a54a3e2335",
+                    "parent": "vpc-0febb09dd4def226c",
+                    "to": "i-0056f95a54a3e2335"
+                },
+                {
+                    "from": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a9bad2d02965a4548bc8e644332266d6/2076b90b87a5705f",
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a9bad2d02965a4548bc8e644332266d6/2076b90b87a5705f-i-0ca850323bac2dbcc",
+                    "parent": "vpc-0febb09dd4def226c",
+                    "to": "i-0ca850323bac2dbcc"
+                },
+                {
+                    "from": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a65736df85b5749f48517e238e21bb2f/6cde185c3a2c8f31",
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a65736df85b5749f48517e238e21bb2f/6cde185c3a2c8f31-__generated_172.28.4.69",
+                    "parent": "vpc-010b8868a5da84757",
+                    "to": "__generated_172.28.4.69"
+                },
+                {
+                    "from": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a65736df85b5749f48517e238e21bb2f/6cde185c3a2c8f31",
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a65736df85b5749f48517e238e21bb2f/6cde185c3a2c8f31-__generated_172.28.4.69",
+                    "parent": "vpc-010b8868a5da84757",
+                    "to": "__generated_172.28.4.69"
+                },
+                {
+                    "from": "Z0416862R9E2XBNTFOC6",
+                    "id": "Z0416862R9E2XBNTFOC6-arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a573093c37c144868baa2d8c77e097e6/86d9edb02424349f",
+                    "to": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a573093c37c144868baa2d8c77e097e6/86d9edb02424349f"
+                },
+                {
+                    "from": "Z0416862R9E2XBNTFOC6",
+                    "id": "Z0416862R9E2XBNTFOC6-arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a573093c37c144868baa2d8c77e097e6/86d9edb02424349f",
+                    "to": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a573093c37c144868baa2d8c77e097e6/86d9edb02424349f"
+                },
+                {
+                    "from": "Z0416862R9E2XBNTFOC6",
+                    "id": "Z0416862R9E2XBNTFOC6-arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a573093c37c144868baa2d8c77e097e6/86d9edb02424349f",
+                    "to": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a573093c37c144868baa2d8c77e097e6/86d9edb02424349f"
+                },
+                {
+                    "from": "Z0416862R9E2XBNTFOC6",
+                    "id": "Z0416862R9E2XBNTFOC6-arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a65736df85b5749f48517e238e21bb2f/6cde185c3a2c8f31",
+                    "to": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a65736df85b5749f48517e238e21bb2f/6cde185c3a2c8f31"
+                },
+                {
+                    "from": "Z0416862R9E2XBNTFOC6",
+                    "id": "Z0416862R9E2XBNTFOC6-arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a65736df85b5749f48517e238e21bb2f/6cde185c3a2c8f31",
+                    "to": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a65736df85b5749f48517e238e21bb2f/6cde185c3a2c8f31"
+                },
+                {
+                    "from": "Z0416862R9E2XBNTFOC6",
+                    "id": "Z0416862R9E2XBNTFOC6-arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a65736df85b5749f48517e238e21bb2f/6cde185c3a2c8f31",
+                    "to": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a65736df85b5749f48517e238e21bb2f/6cde185c3a2c8f31"
+                },
+                {
+                    "from": "Z0416862R9E2XBNTFOC6",
+                    "id": "Z0416862R9E2XBNTFOC6-arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a9bad2d02965a4548bc8e644332266d6/2076b90b87a5705f",
+                    "to": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a9bad2d02965a4548bc8e644332266d6/2076b90b87a5705f"
+                },
+                {
+                    "from": "Z0416862R9E2XBNTFOC6",
+                    "id": "Z0416862R9E2XBNTFOC6-arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a9bad2d02965a4548bc8e644332266d6/2076b90b87a5705f",
+                    "to": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a9bad2d02965a4548bc8e644332266d6/2076b90b87a5705f"
+                },
+                {
+                    "from": "Z0416862R9E2XBNTFOC6",
+                    "id": "Z0416862R9E2XBNTFOC6-arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a9bad2d02965a4548bc8e644332266d6/2076b90b87a5705f",
+                    "to": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a9bad2d02965a4548bc8e644332266d6/2076b90b87a5705f"
+                },
+                {
+                    "from": "Z0416862R9E2XBNTFOC6",
+                    "id": "Z0416862R9E2XBNTFOC6-i-07e42bd60bf611c80",
+                    "to": "i-07e42bd60bf611c80"
+                },
+                {
+                    "from": "Z0416862R9E2XBNTFOC6",
+                    "id": "Z0416862R9E2XBNTFOC6-i-07e42bd60bf611c80",
+                    "to": "i-07e42bd60bf611c80"
+                },
+                {
+                    "from": "Z0416862R9E2XBNTFOC6",
+                    "id": "Z0416862R9E2XBNTFOC6-i-07e42bd60bf611c80",
+                    "to": "i-07e42bd60bf611c80"
+                }
+            ],
+            "nodes": [
+                {
+                    "graph_data": {
+                        "id": "Z03117921Y9FX4Q1PNEG6",
+                        "name": "funki.com.hk"
+                    },
+                    "id": "Z03117921Y9FX4Q1PNEG6",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "route53_zone"
+                },
+                {
+                    "graph_data": {
+                        "id": "Z0416862R9E2XBNTFOC6",
+                        "name": "internal.funki.com.hk"
+                    },
+                    "id": "Z0416862R9E2XBNTFOC6",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "route53_zone"
+                },
+                {
+                    "generated_by": "lb_target_group_attachment",
+                    "graph_data": {
+                        "id": "__generated_172.28.4.69",
+                        "tag_name": "172.28.4.69"
+                    },
+                    "id": "__generated_172.28.4.69",
+                    "parent": "subnet-01d863b4f71ca87c7",
+                    "provider": "",
+                    "reference": "__generated_172.28.4.69",
+                    "resource": "block",
+                    "type": "ip_address"
+                },
+                {
+                    "graph_data": {
+                        "id": "ap-east-1"
+                    },
+                    "id": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "region"
+                },
+                {
+                    "graph_data": {
+                        "id": "ap-east-1a__vpc-010b8868a5da84757",
+                        "tag_name": "ape1-az1"
+                    },
+                    "id": "ap-east-1a__vpc-010b8868a5da84757",
+                    "parent": "vpc-010b8868a5da84757",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "az"
+                },
+                {
+                    "graph_data": {
+                        "id": "ap-east-1a__vpc-09facb66c705f3411",
+                        "tag_name": "ape1-az1"
+                    },
+                    "id": "ap-east-1a__vpc-09facb66c705f3411",
+                    "parent": "vpc-09facb66c705f3411",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "az"
+                },
+                {
+                    "graph_data": {
+                        "id": "ap-east-1a__vpc-0aa1a9a34d8618e6c",
+                        "tag_name": "ape1-az1"
+                    },
+                    "id": "ap-east-1a__vpc-0aa1a9a34d8618e6c",
+                    "parent": "vpc-0aa1a9a34d8618e6c",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "az"
+                },
+                {
+                    "graph_data": {
+                        "id": "ap-east-1a__vpc-0e952b6cc98993eaa",
+                        "tag_name": "ape1-az1"
+                    },
+                    "id": "ap-east-1a__vpc-0e952b6cc98993eaa",
+                    "parent": "vpc-0e952b6cc98993eaa",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "az"
+                },
+                {
+                    "graph_data": {
+                        "id": "ap-east-1a__vpc-0febb09dd4def226c",
+                        "tag_name": "ape1-az1"
+                    },
+                    "id": "ap-east-1a__vpc-0febb09dd4def226c",
+                    "parent": "vpc-0febb09dd4def226c",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "az"
+                },
+                {
+                    "graph_data": {
+                        "id": "ap-east-1a__vpc-9509e0fc",
+                        "tag_name": "ape1-az1"
+                    },
+                    "id": "ap-east-1a__vpc-9509e0fc",
+                    "parent": "vpc-9509e0fc",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "az"
+                },
+                {
+                    "graph_data": {
+                        "id": "ap-east-1b__vpc-010b8868a5da84757",
+                        "tag_name": "ape1-az2"
+                    },
+                    "id": "ap-east-1b__vpc-010b8868a5da84757",
+                    "parent": "vpc-010b8868a5da84757",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "az"
+                },
+                {
+                    "graph_data": {
+                        "id": "ap-east-1b__vpc-09facb66c705f3411",
+                        "tag_name": "ape1-az2"
+                    },
+                    "id": "ap-east-1b__vpc-09facb66c705f3411",
+                    "parent": "vpc-09facb66c705f3411",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "az"
+                },
+                {
+                    "graph_data": {
+                        "id": "ap-east-1b__vpc-0aa1a9a34d8618e6c",
+                        "tag_name": "ape1-az2"
+                    },
+                    "id": "ap-east-1b__vpc-0aa1a9a34d8618e6c",
+                    "parent": "vpc-0aa1a9a34d8618e6c",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "az"
+                },
+                {
+                    "graph_data": {
+                        "id": "ap-east-1b__vpc-0e952b6cc98993eaa",
+                        "tag_name": "ape1-az2"
+                    },
+                    "id": "ap-east-1b__vpc-0e952b6cc98993eaa",
+                    "parent": "vpc-0e952b6cc98993eaa",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "az"
+                },
+                {
+                    "graph_data": {
+                        "id": "ap-east-1b__vpc-0febb09dd4def226c",
+                        "tag_name": "ape1-az2"
+                    },
+                    "id": "ap-east-1b__vpc-0febb09dd4def226c",
+                    "parent": "vpc-0febb09dd4def226c",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "az"
+                },
+                {
+                    "graph_data": {
+                        "id": "ap-east-1b__vpc-9509e0fc",
+                        "tag_name": "ape1-az2"
+                    },
+                    "id": "ap-east-1b__vpc-9509e0fc",
+                    "parent": "vpc-9509e0fc",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "az"
+                },
+                {
+                    "graph_data": {
+                        "id": "ap-east-1c__vpc-010b8868a5da84757",
+                        "tag_name": "ape1-az3"
+                    },
+                    "id": "ap-east-1c__vpc-010b8868a5da84757",
+                    "parent": "vpc-010b8868a5da84757",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "az"
+                },
+                {
+                    "graph_data": {
+                        "id": "ap-east-1c__vpc-09facb66c705f3411",
+                        "tag_name": "ape1-az3"
+                    },
+                    "id": "ap-east-1c__vpc-09facb66c705f3411",
+                    "parent": "vpc-09facb66c705f3411",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "az"
+                },
+                {
+                    "graph_data": {
+                        "id": "ap-east-1c__vpc-0aa1a9a34d8618e6c",
+                        "tag_name": "ape1-az3"
+                    },
+                    "id": "ap-east-1c__vpc-0aa1a9a34d8618e6c",
+                    "parent": "vpc-0aa1a9a34d8618e6c",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "az"
+                },
+                {
+                    "graph_data": {
+                        "id": "ap-east-1c__vpc-0febb09dd4def226c",
+                        "tag_name": "ape1-az3"
+                    },
+                    "id": "ap-east-1c__vpc-0febb09dd4def226c",
+                    "parent": "vpc-0febb09dd4def226c",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "az"
+                },
+                {
+                    "graph_data": {
+                        "id": "ap-east-1c__vpc-9509e0fc",
+                        "tag_name": "ape1-az3"
+                    },
+                    "id": "ap-east-1c__vpc-9509e0fc",
+                    "parent": "vpc-9509e0fc",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "az"
+                },
+                {
+                    "graph_data": {
+                        "id": "app-prd-db-01__in_subnet-03c5118402a86d447",
+                        "name": "",
+                        "tag_environment": "app-prd",
+                        "tag_name": "app-prd-db"
+                    },
+                    "id": "app-prd-db-01__in_subnet-03c5118402a86d447",
+                    "parent": "subnet-03c5118402a86d447",
+                    "provider": "aws",
+                    "reference": "app-prd-db-01",
+                    "resource": "block",
+                    "type": "db_instance"
+                },
+                {
+                    "graph_data": {
+                        "id": "app-prd-db-01__in_subnet-0420276115fa1ac80",
+                        "name": "",
+                        "tag_environment": "app-prd",
+                        "tag_name": "app-prd-db"
+                    },
+                    "id": "app-prd-db-01__in_subnet-0420276115fa1ac80",
+                    "parent": "subnet-0420276115fa1ac80",
+                    "provider": "aws",
+                    "reference": "app-prd-db-01",
+                    "resource": "block",
+                    "type": "db_instance"
+                },
+                {
+                    "graph_data": {
+                        "id": "app-prd-db-01__in_subnet-0d6cb9f3e6934da57",
+                        "name": "",
+                        "tag_environment": "app-prd",
+                        "tag_name": "app-prd-db"
+                    },
+                    "id": "app-prd-db-01__in_subnet-0d6cb9f3e6934da57",
+                    "parent": "subnet-0d6cb9f3e6934da57",
+                    "provider": "aws",
+                    "reference": "app-prd-db-01",
+                    "resource": "block",
+                    "type": "db_instance"
+                },
+                {
+                    "graph_data": {
+                        "id": "app-sat-db-01__in_subnet-03327bb18353ddabd",
+                        "name": "",
+                        "tag_environment": "app-sat",
+                        "tag_name": "app-sat-db"
+                    },
+                    "id": "app-sat-db-01__in_subnet-03327bb18353ddabd",
+                    "parent": "subnet-03327bb18353ddabd",
+                    "provider": "aws",
+                    "reference": "app-sat-db-01",
+                    "resource": "block",
+                    "type": "db_instance"
+                },
+                {
+                    "graph_data": {
+                        "id": "app-sat-db-01__in_subnet-0c6bcaccbd755c713",
+                        "name": "",
+                        "tag_environment": "app-sat",
+                        "tag_name": "app-sat-db"
+                    },
+                    "id": "app-sat-db-01__in_subnet-0c6bcaccbd755c713",
+                    "parent": "subnet-0c6bcaccbd755c713",
+                    "provider": "aws",
+                    "reference": "app-sat-db-01",
+                    "resource": "block",
+                    "type": "db_instance"
+                },
+                {
+                    "graph_data": {
+                        "id": "app-sat-db-01__in_subnet-0ee35f4efaa5cd254",
+                        "name": "",
+                        "tag_environment": "app-sat",
+                        "tag_name": "app-sat-db"
+                    },
+                    "id": "app-sat-db-01__in_subnet-0ee35f4efaa5cd254",
+                    "parent": "subnet-0ee35f4efaa5cd254",
+                    "provider": "aws",
+                    "reference": "app-sat-db-01",
+                    "resource": "block",
+                    "type": "db_instance"
+                },
+                {
+                    "graph_data": {
+                        "id": "app-sit-db-01__in_subnet-01d863b4f71ca87c7",
+                        "name": "",
+                        "tag_environment": "app-sit",
+                        "tag_name": "app-sit-db"
+                    },
+                    "id": "app-sit-db-01__in_subnet-01d863b4f71ca87c7",
+                    "parent": "subnet-01d863b4f71ca87c7",
+                    "provider": "aws",
+                    "reference": "app-sit-db-01",
+                    "resource": "block",
+                    "type": "db_instance"
+                },
+                {
+                    "graph_data": {
+                        "id": "app-sit-db-01__in_subnet-0528f60e69826698c",
+                        "name": "",
+                        "tag_environment": "app-sit",
+                        "tag_name": "app-sit-db"
+                    },
+                    "id": "app-sit-db-01__in_subnet-0528f60e69826698c",
+                    "parent": "subnet-0528f60e69826698c",
+                    "provider": "aws",
+                    "reference": "app-sit-db-01",
+                    "resource": "block",
+                    "type": "db_instance"
+                },
+                {
+                    "graph_data": {
+                        "id": "app-sit-db-01__in_subnet-06fa61473e9029389",
+                        "name": "",
+                        "tag_environment": "app-sit",
+                        "tag_name": "app-sit-db"
+                    },
+                    "id": "app-sit-db-01__in_subnet-06fa61473e9029389",
+                    "parent": "subnet-06fa61473e9029389",
+                    "provider": "aws",
+                    "reference": "app-sit-db-01",
+                    "resource": "block",
+                    "type": "db_instance"
+                },
+                {
+                    "graph_data": {
+                        "id": "argo-workflow-input"
+                    },
+                    "id": "argo-workflow-input",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "s3_bucket"
+                },
+                {
+                    "graph_data": {
+                        "id": "argo-workflow-logs"
+                    },
+                    "id": "argo-workflow-logs",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "s3_bucket"
+                },
+                {
+                    "graph_data": {
+                        "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a2b207156072d4b92b5e7c1884d011fd/56024678db5dc281",
+                        "name": "a2b207156072d4b92b5e7c1884d011fd"
+                    },
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a2b207156072d4b92b5e7c1884d011fd/56024678db5dc281",
+                    "parent": "vpc-0aa1a9a34d8618e6c",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "lb"
+                },
+                {
+                    "graph_data": {
+                        "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a573093c37c144868baa2d8c77e097e6/86d9edb02424349f",
+                        "name": "a573093c37c144868baa2d8c77e097e6"
+                    },
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a573093c37c144868baa2d8c77e097e6/86d9edb02424349f",
+                    "parent": "vpc-09facb66c705f3411",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "lb"
+                },
+                {
+                    "graph_data": {
+                        "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a65736df85b5749f48517e238e21bb2f/6cde185c3a2c8f31",
+                        "name": "a65736df85b5749f48517e238e21bb2f"
+                    },
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a65736df85b5749f48517e238e21bb2f/6cde185c3a2c8f31",
+                    "parent": "vpc-010b8868a5da84757",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "lb"
+                },
+                {
+                    "graph_data": {
+                        "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a9bad2d02965a4548bc8e644332266d6/2076b90b87a5705f",
+                        "name": "a9bad2d02965a4548bc8e644332266d6"
+                    },
+                    "id": "arn:aws:elasticloadbalancing:ap-east-1:411452542600:loadbalancer/net/a9bad2d02965a4548bc8e644332266d6/2076b90b87a5705f",
+                    "parent": "vpc-0febb09dd4def226c",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "lb"
+                },
+                {
+                    "graph_data": {
+                        "id": "cf-templates-8hnhhayaofvv-ap-east-1"
+                    },
+                    "id": "cf-templates-8hnhhayaofvv-ap-east-1",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "s3_bucket"
+                },
+                {
+                    "graph_data": {
+                        "id": "cw-sat-db__in_subnet-03327bb18353ddabd",
+                        "name": "funki"
+                    },
+                    "id": "cw-sat-db__in_subnet-03327bb18353ddabd",
+                    "parent": "subnet-03327bb18353ddabd",
+                    "provider": "aws",
+                    "reference": "cw-sat-db",
+                    "resource": "block",
+                    "type": "db_instance"
+                },
+                {
+                    "graph_data": {
+                        "id": "cw-sat-db__in_subnet-0c6bcaccbd755c713",
+                        "name": "funki"
+                    },
+                    "id": "cw-sat-db__in_subnet-0c6bcaccbd755c713",
+                    "parent": "subnet-0c6bcaccbd755c713",
+                    "provider": "aws",
+                    "reference": "cw-sat-db",
+                    "resource": "block",
+                    "type": "db_instance"
+                },
+                {
+                    "graph_data": {
+                        "id": "cw-sat-db__in_subnet-0ee35f4efaa5cd254",
+                        "name": "funki"
+                    },
+                    "id": "cw-sat-db__in_subnet-0ee35f4efaa5cd254",
+                    "parent": "subnet-0ee35f4efaa5cd254",
+                    "provider": "aws",
+                    "reference": "cw-sat-db",
+                    "resource": "block",
+                    "type": "db_instance"
+                },
+                {
+                    "graph_data": {
+                        "id": "cw-sit-db__in_subnet-01d863b4f71ca87c7",
+                        "name": "funki"
+                    },
+                    "id": "cw-sit-db__in_subnet-01d863b4f71ca87c7",
+                    "parent": "subnet-01d863b4f71ca87c7",
+                    "provider": "aws",
+                    "reference": "cw-sit-db",
+                    "resource": "block",
+                    "type": "db_instance"
+                },
+                {
+                    "graph_data": {
+                        "id": "cw-sit-db__in_subnet-0528f60e69826698c",
+                        "name": "funki"
+                    },
+                    "id": "cw-sit-db__in_subnet-0528f60e69826698c",
+                    "parent": "subnet-0528f60e69826698c",
+                    "provider": "aws",
+                    "reference": "cw-sit-db",
+                    "resource": "block",
+                    "type": "db_instance"
+                },
+                {
+                    "graph_data": {
+                        "id": "cw-sit-db__in_subnet-06fa61473e9029389",
+                        "name": "funki"
+                    },
+                    "id": "cw-sit-db__in_subnet-06fa61473e9029389",
+                    "parent": "subnet-06fa61473e9029389",
+                    "provider": "aws",
+                    "reference": "cw-sit-db",
+                    "resource": "block",
+                    "type": "db_instance"
+                },
+                {
+                    "graph_data": {
+                        "id": "fortibucket-ap-east-1"
+                    },
+                    "id": "fortibucket-ap-east-1",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "s3_bucket"
+                },
+                {
+                    "graph_data": {
+                        "id": "funki"
+                    },
+                    "id": "funki",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "s3_bucket"
+                },
+                {
+                    "graph_data": {
+                        "id": "funki-elb-log"
+                    },
+                    "id": "funki-elb-log",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "s3_bucket"
+                },
+                {
+                    "graph_data": {
+                        "id": "funki-public"
+                    },
+                    "id": "funki-public",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "s3_bucket"
+                },
+                {
+                    "graph_data": {
+                        "description": "m5.large",
+                        "id": "i-0056f95a54a3e2335",
+                        "tag_name": "app-sat-eks-maxpod-1c"
+                    },
+                    "id": "i-0056f95a54a3e2335",
+                    "parent": "subnet-03327bb18353ddabd",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "instance"
+                },
+                {
+                    "graph_data": {
+                        "description": "m5.large",
+                        "id": "i-005fd623b65788089",
+                        "tag_name": "app-sit-eks-maxpod-1a"
+                    },
+                    "id": "i-005fd623b65788089",
+                    "parent": "subnet-0528f60e69826698c",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "instance"
+                },
+                {
+                    "graph_data": {
+                        "description": "t3.medium",
+                        "id": "i-013473c6a2f4700a8",
+                        "tag_environment": "ss-prd",
+                        "tag_name": "ss-prd-dc-02"
+                    },
+                    "id": "i-013473c6a2f4700a8",
+                    "parent": "subnet-076173fe4e875d3f4",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "instance"
+                },
+                {
+                    "graph_data": {
+                        "description": "m5.large",
+                        "id": "i-01f64c2e599cdd0a0",
+                        "tag_name": "app-sit-eks-maxpod-1b"
+                    },
+                    "id": "i-01f64c2e599cdd0a0",
+                    "parent": "subnet-01d863b4f71ca87c7",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "instance"
+                },
+                {
+                    "graph_data": {
+                        "description": "t3.nano",
+                        "id": "i-023cbd94776e0c0c8",
+                        "tag_name": "al18-ss-prd"
+                    },
+                    "id": "i-023cbd94776e0c0c8",
+                    "parent": "subnet-0e5d2f8ea779d37dc",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "instance"
+                },
+                {
+                    "graph_data": {
+                        "description": "c5.xlarge",
+                        "id": "i-036c527968be126a3",
+                        "tag_environment": "sec-prd",
+                        "tag_name": "sec-prd-b"
+                    },
+                    "id": "i-036c527968be126a3",
+                    "parent": "subnet-033d33f6b3e447bf3",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "instance"
+                },
+                {
+                    "graph_data": {
+                        "description": "m5.xlarge",
+                        "id": "i-037a6fbeb51eb615c",
+                        "tag_name": "app-prd-eks-1c"
+                    },
+                    "id": "i-037a6fbeb51eb615c",
+                    "parent": "subnet-0d6cb9f3e6934da57",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "instance"
+                },
+                {
+                    "graph_data": {
+                        "description": "t3.medium",
+                        "id": "i-06551d44d0ba37cdc",
+                        "tag_environment": "ss-prd",
+                        "tag_name": "ss-prd-apexone-01"
+                    },
+                    "id": "i-06551d44d0ba37cdc",
+                    "parent": "subnet-0e5d2f8ea779d37dc",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "instance"
+                },
+                {
+                    "graph_data": {
+                        "description": "t3.small",
+                        "id": "i-07e42bd60bf611c80",
+                        "tag_name": "Funki IT Team"
+                    },
+                    "id": "i-07e42bd60bf611c80",
+                    "parent": "subnet-076173fe4e875d3f4",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "instance"
+                },
+                {
+                    "graph_data": {
+                        "description": "c5.xlarge",
+                        "id": "i-084f67aefe1b56441",
+                        "tag_environment": "sec-prd",
+                        "tag_name": "sec-prd-a"
+                    },
+                    "id": "i-084f67aefe1b56441",
+                    "parent": "subnet-046739603ec3e15d0",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "instance"
+                },
+                {
+                    "graph_data": {
+                        "description": "t3.medium",
+                        "id": "i-09275fd96f0a35adf",
+                        "tag_environment": "ss-prd",
+                        "tag_name": "ss-prd-dc-01"
+                    },
+                    "id": "i-09275fd96f0a35adf",
+                    "parent": "subnet-0e5d2f8ea779d37dc",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "instance"
+                },
+                {
+                    "graph_data": {
+                        "description": "t3.medium",
+                        "id": "i-0a260706d7e598397",
+                        "tag_name": "ss-prd-rancher"
+                    },
+                    "id": "i-0a260706d7e598397",
+                    "parent": "subnet-0e5d2f8ea779d37dc",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "instance"
+                },
+                {
+                    "graph_data": {
+                        "description": "c5.xlarge",
+                        "id": "i-0a9ee6885cd196408",
+                        "tag_environment": "ss-prd",
+                        "tag_name": "ss-prd-gitlab-01"
+                    },
+                    "id": "i-0a9ee6885cd196408",
+                    "parent": "subnet-0e5d2f8ea779d37dc",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "instance"
+                },
+                {
+                    "graph_data": {
+                        "description": "t3.medium",
+                        "id": "i-0b1d132e2b8225499",
+                        "tag_environment": "ss-prd",
+                        "tag_name": "ss-prd-aad-connect-01"
+                    },
+                    "id": "i-0b1d132e2b8225499",
+                    "parent": "subnet-0e5d2f8ea779d37dc",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "instance"
+                },
+                {
+                    "graph_data": {
+                        "description": "t3.large",
+                        "id": "i-0b92bf77b296692eb",
+                        "tag_environment": "ss-prd",
+                        "tag_name": "ss-prd-desktopcentral-01"
+                    },
+                    "id": "i-0b92bf77b296692eb",
+                    "parent": "subnet-0e5d2f8ea779d37dc",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "instance"
+                },
+                {
+                    "graph_data": {
+                        "description": "m5.large",
+                        "id": "i-0c843e0a0f5f82283",
+                        "tag_name": "app-sat-eks-maxpod-1b"
+                    },
+                    "id": "i-0c843e0a0f5f82283",
+                    "parent": "subnet-0ee35f4efaa5cd254",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "instance"
+                },
+                {
+                    "graph_data": {
+                        "description": "m5.large",
+                        "id": "i-0ca850323bac2dbcc",
+                        "tag_name": "app-sat-eks-maxpod-1a"
+                    },
+                    "id": "i-0ca850323bac2dbcc",
+                    "parent": "subnet-0c6bcaccbd755c713",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "instance"
+                },
+                {
+                    "graph_data": {
+                        "description": "m5.xlarge",
+                        "id": "i-0d1d9fa0e9380984f",
+                        "tag_name": "app-prd-eks-1a"
+                    },
+                    "id": "i-0d1d9fa0e9380984f",
+                    "parent": "subnet-03c5118402a86d447",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "instance"
+                },
+                {
+                    "graph_data": {
+                        "description": "t3.micro",
+                        "id": "i-0dafb697c3ea66541"
+                    },
+                    "id": "i-0dafb697c3ea66541",
+                    "parent": "subnet-0528f60e69826698c",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "instance"
+                },
+                {
+                    "graph_data": {
+                        "description": "m5.large",
+                        "id": "i-0e02e7540dd13c1ad",
+                        "tag_name": "app-sit-eks-maxpod-1c"
+                    },
+                    "id": "i-0e02e7540dd13c1ad",
+                    "parent": "subnet-06fa61473e9029389",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "instance"
+                },
+                {
+                    "graph_data": {
+                        "description": "m5.xlarge",
+                        "id": "i-0fae1b08bd3b1d730",
+                        "tag_name": "app-prd-eks-1b"
+                    },
+                    "id": "i-0fae1b08bd3b1d730",
+                    "parent": "subnet-0420276115fa1ac80",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "instance"
+                },
+                {
+                    "graph_data": {
+                        "id": "prd-argo-workflow-logs",
+                        "tag_environment": "prd",
+                        "tag_name": "prd-argo-workflow-logs"
+                    },
+                    "id": "prd-argo-workflow-logs",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "s3_bucket"
+                },
+                {
+                    "graph_data": {
+                        "id": "prd-funki-app",
+                        "tag_environment": "prd",
+                        "tag_name": "prd-funki-app"
+                    },
+                    "id": "prd-funki-app",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "s3_bucket"
+                },
+                {
+                    "graph_data": {
+                        "id": "sat-argo-workflow-logs",
+                        "tag_environment": "sat",
+                        "tag_name": "sat-argo-workflow-logs"
+                    },
+                    "id": "sat-argo-workflow-logs",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "s3_bucket"
+                },
+                {
+                    "graph_data": {
+                        "id": "sat-funki-app",
+                        "tag_environment": "sat",
+                        "tag_name": "sat-funki-app"
+                    },
+                    "id": "sat-funki-app",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "s3_bucket"
+                },
+                {
+                    "graph_data": {
+                        "id": "sit-argo-workflow-logs",
+                        "tag_environment": "sit",
+                        "tag_name": "sit-argo-workflow-logs"
+                    },
+                    "id": "sit-argo-workflow-logs",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "s3_bucket"
+                },
+                {
+                    "graph_data": {
+                        "id": "sit-funki-app",
+                        "tag_environment": "sit",
+                        "tag_name": "sit-funki-app"
+                    },
+                    "id": "sit-funki-app",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "s3_bucket"
+                },
+                {
+                    "graph_data": {
+                        "id": "sit-loan-document"
+                    },
+                    "id": "sit-loan-document",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "s3_bucket"
+                },
+                {
+                    "graph_data": {
+                        "id": "strapi-backup"
+                    },
+                    "id": "strapi-backup",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "s3_bucket"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.4.64/26",
+                        "id": "subnet-01d863b4f71ca87c7",
+                        "tag_environment": "app-sit",
+                        "tag_name": "app-sit-b"
+                    },
+                    "id": "subnet-01d863b4f71ca87c7",
+                    "parent": "ap-east-1b__vpc-010b8868a5da84757",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.0.192/27",
+                        "id": "subnet-02137935b74b78aa6",
+                        "tag_environment": "sec-prd",
+                        "tag_name": "sec-prd-hb-b"
+                    },
+                    "id": "subnet-02137935b74b78aa6",
+                    "parent": "ap-east-1b__vpc-0e952b6cc98993eaa",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.3.128/26",
+                        "id": "subnet-03327bb18353ddabd",
+                        "tag_environment": "app-sat",
+                        "tag_name": "app-sat-c"
+                    },
+                    "id": "subnet-03327bb18353ddabd",
+                    "parent": "ap-east-1c__vpc-0febb09dd4def226c",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.0.128/27",
+                        "id": "subnet-033d33f6b3e447bf3",
+                        "tag_environment": "sec-prd",
+                        "tag_name": "sec-prd-data-b"
+                    },
+                    "id": "subnet-033d33f6b3e447bf3",
+                    "parent": "ap-east-1b__vpc-0e952b6cc98993eaa",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.2.0/26",
+                        "id": "subnet-03c5118402a86d447",
+                        "tag_environment": "app-prd",
+                        "tag_name": "app-prd-a"
+                    },
+                    "id": "subnet-03c5118402a86d447",
+                    "parent": "ap-east-1a__vpc-09facb66c705f3411",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.0.160/27",
+                        "id": "subnet-03c809dda1f359b29",
+                        "tag_environment": "sec-prd",
+                        "tag_name": "sec-prd-relay-b"
+                    },
+                    "id": "subnet-03c809dda1f359b29",
+                    "parent": "ap-east-1b__vpc-0e952b6cc98993eaa",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.2.64/26",
+                        "id": "subnet-0420276115fa1ac80",
+                        "tag_environment": "app-prd",
+                        "tag_name": "app-prd-b"
+                    },
+                    "id": "subnet-0420276115fa1ac80",
+                    "parent": "ap-east-1b__vpc-09facb66c705f3411",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.0.0/27",
+                        "id": "subnet-046739603ec3e15d0",
+                        "tag_environment": "sec-prd",
+                        "tag_name": "sec-prd-data-a"
+                    },
+                    "id": "subnet-046739603ec3e15d0",
+                    "parent": "ap-east-1a__vpc-0e952b6cc98993eaa",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.0.224/27",
+                        "id": "subnet-04d9930b652621956",
+                        "tag_environment": "sec-prd",
+                        "tag_name": "sec-prd-mgmt-b"
+                    },
+                    "id": "subnet-04d9930b652621956",
+                    "parent": "ap-east-1b__vpc-0e952b6cc98993eaa",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.4.0/26",
+                        "id": "subnet-0528f60e69826698c",
+                        "tag_environment": "app-sit",
+                        "tag_name": "app-sit-a"
+                    },
+                    "id": "subnet-0528f60e69826698c",
+                    "parent": "ap-east-1a__vpc-010b8868a5da84757",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.4.128/26",
+                        "id": "subnet-06fa61473e9029389",
+                        "tag_environment": "app-sit",
+                        "tag_name": "app-sit-c"
+                    },
+                    "id": "subnet-06fa61473e9029389",
+                    "parent": "ap-east-1c__vpc-010b8868a5da84757",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.1.64/26",
+                        "id": "subnet-076173fe4e875d3f4",
+                        "tag_environment": "ss-prd",
+                        "tag_name": "ss-prd-b"
+                    },
+                    "id": "subnet-076173fe4e875d3f4",
+                    "parent": "ap-east-1b__vpc-0aa1a9a34d8618e6c",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.1.128/26",
+                        "id": "subnet-0782adb2a61b38b5a",
+                        "tag_environment": "ss-prd",
+                        "tag_name": "ss-prd-c"
+                    },
+                    "id": "subnet-0782adb2a61b38b5a",
+                    "parent": "ap-east-1c__vpc-0aa1a9a34d8618e6c",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.0.64/27",
+                        "id": "subnet-0b23551eb8f3e1e6f",
+                        "tag_environment": "sec-prd",
+                        "tag_name": "sec-prd-hb-a"
+                    },
+                    "id": "subnet-0b23551eb8f3e1e6f",
+                    "parent": "ap-east-1a__vpc-0e952b6cc98993eaa",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.0.96/27",
+                        "id": "subnet-0b25e6d20e3765873",
+                        "tag_environment": "sec-prd",
+                        "tag_name": "sec-prd-mgmt-a"
+                    },
+                    "id": "subnet-0b25e6d20e3765873",
+                    "parent": "ap-east-1a__vpc-0e952b6cc98993eaa",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.0.32/27",
+                        "id": "subnet-0c183d021071b3489",
+                        "tag_environment": "sec-prd",
+                        "tag_name": "sec-prd-relay-a"
+                    },
+                    "id": "subnet-0c183d021071b3489",
+                    "parent": "ap-east-1a__vpc-0e952b6cc98993eaa",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.3.0/26",
+                        "id": "subnet-0c6bcaccbd755c713",
+                        "tag_environment": "app-sat",
+                        "tag_name": "app-sat-a"
+                    },
+                    "id": "subnet-0c6bcaccbd755c713",
+                    "parent": "ap-east-1a__vpc-0febb09dd4def226c",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.2.128/26",
+                        "id": "subnet-0d6cb9f3e6934da57",
+                        "tag_environment": "app-prd",
+                        "tag_name": "app-prd-c"
+                    },
+                    "id": "subnet-0d6cb9f3e6934da57",
+                    "parent": "ap-east-1c__vpc-09facb66c705f3411",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.1.0/26",
+                        "id": "subnet-0e5d2f8ea779d37dc",
+                        "tag_environment": "ss-prd",
+                        "tag_name": "ss-prd-a"
+                    },
+                    "id": "subnet-0e5d2f8ea779d37dc",
+                    "parent": "ap-east-1a__vpc-0aa1a9a34d8618e6c",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.3.64/26",
+                        "id": "subnet-0ee35f4efaa5cd254",
+                        "tag_environment": "app-sat",
+                        "tag_name": "app-sat-b"
+                    },
+                    "id": "subnet-0ee35f4efaa5cd254",
+                    "parent": "ap-east-1b__vpc-0febb09dd4def226c",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.31.0.0/20",
+                        "id": "subnet-5e090226"
+                    },
+                    "id": "subnet-5e090226",
+                    "parent": "ap-east-1b__vpc-9509e0fc",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.31.32.0/20",
+                        "id": "subnet-7d82a837"
+                    },
+                    "id": "subnet-7d82a837",
+                    "parent": "ap-east-1c__vpc-9509e0fc",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.31.16.0/20",
+                        "id": "subnet-8b3fd6e2"
+                    },
+                    "id": "subnet-8b3fd6e2",
+                    "parent": "ap-east-1a__vpc-9509e0fc",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "private_subnet"
+                },
+                {
+                    "graph_data": {
+                        "id": "test-funki-app"
+                    },
+                    "id": "test-funki-app",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "block",
+                    "type": "s3_bucket"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.4.0/24",
+                        "id": "vpc-010b8868a5da84757",
+                        "tag_environment": "app-sit",
+                        "tag_name": "app-sit"
+                    },
+                    "id": "vpc-010b8868a5da84757",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "vpc"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.2.0/24",
+                        "id": "vpc-09facb66c705f3411",
+                        "tag_environment": "app-prd",
+                        "tag_name": "app-prd"
+                    },
+                    "id": "vpc-09facb66c705f3411",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "vpc"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.1.0/24",
+                        "id": "vpc-0aa1a9a34d8618e6c",
+                        "tag_environment": "ss-prd",
+                        "tag_name": "ss-prd"
+                    },
+                    "id": "vpc-0aa1a9a34d8618e6c",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "vpc"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.0.0/24",
+                        "id": "vpc-0e952b6cc98993eaa",
+                        "tag_environment": "sec-prd",
+                        "tag_name": "sec-prd"
+                    },
+                    "id": "vpc-0e952b6cc98993eaa",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "vpc"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.28.3.0/24",
+                        "id": "vpc-0febb09dd4def226c",
+                        "tag_environment": "app-sat",
+                        "tag_name": "app-sat"
+                    },
+                    "id": "vpc-0febb09dd4def226c",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "vpc"
+                },
+                {
+                    "graph_data": {
+                        "description": "172.31.0.0/16",
+                        "id": "vpc-9509e0fc"
+                    },
+                    "id": "vpc-9509e0fc",
+                    "parent": "ap-east-1",
+                    "provider": "aws",
+                    "resource": "container",
+                    "type": "vpc"
+                }
+            ]
+        }
+    },
+    "version": 1
+}
